@@ -20,7 +20,16 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Resume Builder</title>
+        <meta name="keyword"     content="Single Page Resume Builder for everyone" />
+        <meta name="keyword"     content="Resume Builder" />
+        <meta name="keyword"     content="Resume maker" />
+        <meta name="keyword"     content="Cv maker" />
+        <meta name="keyword"     content="Bio data maker" />
         <meta name="description" content="Single Page Resume Builder for everyone" />
+        <meta name="description" content=" Resume Builder " />
+        <meta name="description" content="Resume maker" />
+        <meta name="description" content="Cv maker" />
+        <meta name="description" content="Bio data maker" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
