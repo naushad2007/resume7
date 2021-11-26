@@ -64,12 +64,14 @@ const Features: NextPage = () => {
         </p>
       </div>
       
-      <div>
-        <h2> best resume builder </h2>
+       <div>
+        <Image src="/home/resume.png" alt="No account" height="50px" width="50px" />
+        <h2>Best resume builder </h2>
         <p>
-          Easy fast & secure resume builder 
+          Fast secure & easy to use.
         </p>
-          </div>
+      </div>
+     
     </FeatureContainer>
   );
 };
