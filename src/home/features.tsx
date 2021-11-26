@@ -63,6 +63,13 @@ const Features: NextPage = () => {
           know is some basic knowledge of React and programming.
         </p>
       </div>
+      
+      <div>
+        <h2> best resume builder </h2>
+        <p>
+          Easy fast & secure resume builder 
+        </p>
+          </div>
     </FeatureContainer>
   );
 };
