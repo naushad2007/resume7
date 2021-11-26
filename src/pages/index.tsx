@@ -30,6 +30,25 @@ const Home: NextPage = () => {
         <meta name="description" content="Resume maker" />
         <meta name="description" content="Cv maker" />
         <meta name="description" content="Bio data maker" />
+        <!-- Primary Meta Tags -->
+
+<meta name="title" content="Single Page Resume Builder">
+<meta name="description" content="Bio data maker">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://resumbuilder.netlify.app/">
+<meta property="og:title" content="Single Page Resume Builder">
+<meta property="og:description" content="Bio data maker">
+<meta property="og:image" content="">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://resumbuilder.netlify.app/">
+<meta property="twitter:title" content="Single Page Resume Builder">
+<meta property="twitter:description" content="Bio data maker">
+<meta property="twitter:image" content="">
+  
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
