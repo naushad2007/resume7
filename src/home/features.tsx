@@ -66,7 +66,7 @@ const Features: NextPage = () => {
       
        <div>
         <Image src="/home/resume.png" alt="No account" height="50px" width="50px" />
-        <h2>Best resume builder </h2>
+        <h2> Best resume builder </h2>
         <p>
           Fast secure & easy to use.
         </p>
