@@ -17,7 +17,7 @@ const Main = styled.main`
 
 const Home: NextPage = () => {
   return (
-    <>
+    
       <Head>
         <title>Resume Builder</title>
         <meta name="keyword"     content="Single Page Resume Builder for everyone" />
